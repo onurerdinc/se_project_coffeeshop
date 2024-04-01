@@ -12,3 +12,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - CSS animation and transform
 
 ## Plan on improving the project
+
+Once I learn Javascript and React, I want to make this website full functioned.
