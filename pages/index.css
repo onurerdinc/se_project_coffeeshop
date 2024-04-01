@@ -237,9 +237,14 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
+  gap: 12px;
 }
 
 input[type="checkbox"] {
   width: 20px;
   height: 20px;
+}
+
+input::placeholder {
+  padding-left: 12px;
 }
