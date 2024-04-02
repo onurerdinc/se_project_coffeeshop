@@ -54,15 +54,11 @@
         />
         <div class="header__footer">
           <div>
-            <p class="header__paragraphs header__paragraphs-hours">Hours:</p>
-            <p class="header__paragraphs header__paragraphs-hours">
-              Monday – Friday (10:00 – 19:00)
-            </p>
-            <p class="header__paragraphs header__paragraphs-hours">
-              Saturday – Sunday (11:00 – 18:00)
-            </p>
+            <p class="header__paragraph">Hours:</p>
+            <p class="header__paragraph">Monday – Friday (10:00 – 19:00)</p>
+            <p class="header__paragraph">Saturday – Sunday (11:00 – 18:00)</p>
           </div>
-          <p class="header__paragraphs header__paragraphs-address">
+          <p class="header__paragraph">
             200 Success Avenue, The Town of Triple Peaks
           </p>
         </div>
@@ -144,7 +140,7 @@
             </fieldset>
             <button class="form__button">Book a table</button>
             <label class="form__label form__label_type_checkbox" for="checkbox">
-              <input type="checkbox" id="checkbox" />
+              <input type="checkbox" id="checkbox" class="form__checkbox" />
               I agree with the terms of use.
             </label>
           </form>
@@ -246,13 +242,12 @@
       </main>
       <footer class="footer" id="footer">
         <div class="footer__content">
-          <div class="footer__logo">
-            <img
-              src="./images/logo_coffeeshop_light.svg"
-              alt="coffee shop logo"
-            />
-          </div>
-          <div class="social">
+          <img
+            src="./images/logo_coffeeshop_light.svg"
+            alt="coffee shop logo"
+            class="footer__logo"
+          />
+          <div class="footer__social">
             <h3 class="footer__social-heading">Social media</h3>
             <ul class="footer__list">
               <li class="footer__list-item">
