@@ -4,6 +4,8 @@
   padding: 100px 80px 173px 80px;
   position: relative;
   overflow: hidden;
+  display: flex;
+  justify-content: space-between;
 }
 
 .about__title {
@@ -26,6 +28,10 @@
   line-height: 30px;
   max-width: 660px;
   margin: 0 0 20px auto;
+}
+
+.about__paragraph:first-child {
+  margin-top: 19px;
 }
 
 .about__paragraph:last-child {
