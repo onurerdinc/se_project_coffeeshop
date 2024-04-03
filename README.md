@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Once I learn Javascript and React, I want to make this website full functioned.
+Once I learn Javascript and React, I want to make this website fully functioned.
