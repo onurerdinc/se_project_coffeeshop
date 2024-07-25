@@ -15,7 +15,6 @@ This project utilizes HTML and CSS to bring the design brief to life. The page c
 
 ## Project Images
 
-![Alt text](path/to/image)
 ![Page 1](./images/project-images/Page1.png)
 ![Page 2](./images/project-images/Page2.png)
 ![Page 3](./images/project-images/Page3.png)
